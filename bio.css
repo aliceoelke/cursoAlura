@@ -1,0 +1,41 @@
+body {
+    font-family: "Crinson Text", serif;
+    background-color: #F2FFFC;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+h2{
+    font-size:  30px;
+    font-family: "Open Sans", sans-serif;
+}
+
+main h1 {
+    text-align: center;
+    background-color: #851944;
+    color: #FFF;
+    font-size: 60px;
+    font-family: "Open SAns Condensed", sans-serif;
+    padding: 20px;
+    margin: 0px;
+    border-bottom: 10px solid black;
+}
+
+p {
+    text-align: justify;
+    margin: 20px 0;
+}
+
+blockquote {
+    background-color: #D3DDDA;
+    padding: 16px;
+    border: 10px solid #C2CCCA;
+    width: 250px;
+    margin: 20px 40px;
+    box-sizing: border-box;
+}
+
+aside h1 {
+    font-size: 30px;
+    margin-bottom: 25px;
+}

@@ -1,0 +1,63 @@
+aside {
+    background-color: #3C1D3D;
+    color: #F2FFFC;
+    text-align: center;
+    padding: 20px;
+    font-family: "Open Sans Condensed", sans-serif;
+}
+
+.cor-rodape {
+    background-color: #000;
+    color: #F2FFFC;
+    padding: 20px;
+}
+
+nav a {
+    color: #F2FFFC;
+}
+
+main a {
+    color: #851944;
+}
+
+aside a {
+    color: inherit;
+    font-family: "Open Sans Condensed", sans-serif;
+}
+
+main div {
+    width: 720px;
+    margin: auto;
+    padding: 30px 0;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-size: italic;
+}
+
+.icones-sociais li {
+    display: inline-block;
+}
+
+.social-rodape {
+    margin: 60px;
+}
+
+article {
+    padding-bottom: 30px;
+    border-bottom: 1px solid #CCC;
+    margin-bottom: 20px;
+}
+
+.leia-mais {
+    background-color: #E6E7E8;
+    text-align: center;
+    padding: 8px;
+    margin: 16px;
+    font-size: 24px;
+    display: block;
+}
